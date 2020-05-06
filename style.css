@@ -1,0 +1,13 @@
+body {
+background: url("tlostrony.jpg");
+background-size: 100%;
+font-family: 'Roboto Mono', monospace;
+color: #FF0000
+
+
+
+}
+article, header, footer, aside, nav{
+background: rgba(255, 255, 255, 0.6);
+}
+ 
